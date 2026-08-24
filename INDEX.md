@@ -6,7 +6,6 @@
 
 1. [DE-ALLTAG-001 — Über das Kind im Alltag sprechen](lessons/DE-ALLTAG-001.md)
 2. [DE-ALLTAG-002 — Das Kind fertig machen und das Haus verlassen](lessons/DE-ALLTAG-002.md)
-3. [DE-ALLTAG-003 — Einkaufen im Supermarkt: Was brauchen wir noch?](lessons/DE-ALLTAG-003.md)
 
 ## Numbering rule
 - `DE-ALLTAG-001`, `DE-ALLTAG-002`, ... برای مکالمات روزمره
