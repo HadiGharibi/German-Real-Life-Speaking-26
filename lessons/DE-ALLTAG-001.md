@@ -1,300 +1,736 @@
 # DE-ALLTAG-001 — Über das Kind im Alltag sprechen
 
-## هدف درس
-بتوانیم در زندگی واقعی، طبیعی و بدون جمله‌های کتابی دربارهٔ کودکمان صحبت کنیم: سن، رشد، خواب، غذا، بازی، خلق‌وخو و Kita.
+## صحبت روزمره دربارهٔ کودک
 
 ---
 
-## 1. Kernwortschatz — واژگان اصلی
+## 1. موقعیت واقعی — Situation
 
-- **das Kind** — کودک
-- **die Tochter / der Sohn** — دختر / پسر
-- **fast zwei Jahre alt** — تقریباً دو ساله
-- **selbstständig** — مستقل
-- **die Entwicklung** — رشد / روند رشد
-- **in die Kita gehen** — به مهدکودک رفتن
-- **die Eingewöhnung** — دورهٔ سازگاری با مهدکودک
-- **sich eingewöhnen** — به محیط جدید عادت کردن
-- **durchschlafen** — یکسره تا صبح خوابیدن
-- **aufwachen** — بیدار شدن
-- **Mittagsschlaf machen** — خواب نیمروزی داشتن
-- **wählerisch beim Essen sein** — در غذا سخت‌پسند بودن
-- **gut gelaunt** — خوش‌اخلاق / سرحال
-- **quengelig** — نق‌نقو / بهانه‌گیر
-- **lebhaft** — پرجنب‌وجوش
-- **sich interessieren für + Akk.** — به چیزی علاقه داشتن
-- **sich freuen auf + Akk.** — مشتاق چیزی بودن
-- **Angst haben vor + Dat.** — از چیزی ترس داشتن
-- **sich kümmern um + Akk.** — مراقبت کردن از
+یکی از والدین مدتی با کودک بوده و والد دیگر می‌پرسد:
+
+- امروز حالش چطور بود؟
+- خوب غذا خورد؟
+- خوابید؟
+- چرا گریه می‌کرد؟
+- بی‌قرار یا نق‌نقو بود؟
+- الان گرسنه یا خسته است؟
+- تازه بیدار شده یا هنوز خواب است؟
+- الان بهتر است چه کار کنیم؟
+
+**هدف درس:**  
+به‌جای ترجمهٔ کلمه‌به‌کلمه از فارسی، چند **Satzmuster** و عبارت بسیار طبیعی را آن‌قدر تمرین کنیم که هنگام صحبت دربارهٔ کودک به‌صورت خودکار استفاده شوند.
 
 ---
 
-## 2. Alter und Entwicklung — سن و رشد
+# 2. Kernmuster — الگوهای اصلی درس
 
-**Meine Tochter ist fast zwei Jahre alt.**  
-دخترم تقریباً دو ساله است.
+## A) Hat sie schon …?
 
-**Sie ist jetzt fast zwei.**  
-الان تقریباً دو سالشه.  
-> این فرم در مکالمهٔ روزمره بسیار طبیعی است.
+برای پرسیدن اینکه کاری تا الان انجام شده یا نه:
 
-**Sie versteht schon sehr viel, spricht aber noch nicht so viel.**  
-خیلی چیزها را می‌فهمد، ولی هنوز زیاد صحبت نمی‌کند.
+**Hat sie schon gegessen?**  
+غذا خورده؟
 
-**Sie wird von Tag zu Tag selbstständiger.**  
-روزبه‌روز مستقل‌تر می‌شود.
+**Hat sie schon geschlafen?**  
+خوابیده؟
 
-**Im Moment lernt sie sehr schnell neue Wörter.**  
-این روزها خیلی سریع کلمات جدید یاد می‌گیرد.
+**Ist sie schon aufgewacht?**  
+بیدار شده؟
 
----
+پاسخ بسیار مهم:
 
-## 3. Kita und Betreuung — مهدکودک و مراقبت
+**Nein, noch nicht.**  
+نه، هنوز نه.
 
-**Sie geht bald in die Kita.**  
-به‌زودی به مهدکودک می‌رود.
+### الگوی اصلی
 
-**Wir fangen bald mit der Eingewöhnung an.**  
-به‌زودی دورهٔ سازگاری با مهدکودک را شروع می‌کنیم.
-
-**Wir sind gerade in der Eingewöhnungsphase.**  
-الان در دورهٔ سازگاری هستیم.
-
-**Am Anfang bleibe ich noch eine Weile dabei.**  
-اوایل من هم مدتی آنجا می‌مانم.
-
-**Heute wollte sie gar nicht nach Hause gehen.**  
-امروز اصلاً نمی‌خواست به خانه برگردد.
-
-### عبارت‌های طبیعی
-- **Wie klappt die Eingewöhnung?** — دورهٔ سازگاری چطور پیش می‌رود؟
-- **Es klappt ganz gut.** — خیلی خوب پیش می‌رود.
-- **Sie braucht noch ein bisschen Zeit.** — هنوز کمی زمان لازم دارد.
-- **Sie fühlt sich dort schon wohl.** — آنجا دیگر احساس راحتی می‌کند.
+**Hat sie schon …?**  
+→ **Ja, schon.**  
+→ **Nein, noch nicht.**
 
 ---
 
-## 4. Schlaf — خواب
+## B) Sie ist gerade …
 
-**Sie schläft meistens gut.**  
-بیشتر وقت‌ها خوب می‌خوابد.
+برای اتفاقی که همین الان یا کمی قبل رخ داده:
 
-**Manchmal wacht sie nachts noch auf.**  
-بعضی وقت‌ها هنوز شب بیدار می‌شود.
+**Sie ist gerade aufgewacht.**  
+تازه بیدار شده.
 
-**Sie schläft inzwischen meistens durch.**  
-این اواخر بیشتر شب‌ها یکسره تا صبح می‌خوابد.
+**Sie ist gerade eingeschlafen.**  
+تازه خوابش برده.
 
-**Mittags schläft sie ungefähr eine Stunde.**  
-ظهرها حدود یک ساعت می‌خوابد.
+**Sie isst gerade.**  
+الان دارد غذا می‌خورد.
 
-**Gestern hat sie zum ersten Mal durchgeschlafen.**  
-دیشب برای اولین بار تا صبح یکسره خوابید.
-
-### نکتهٔ گفتاری
-به‌جای:
-**Sie schläft in der Nacht gut.**
-
-طبیعی‌تر است بگوییم:
-**Sie schläft nachts gut.**
+**Sie ist gerade etwas quengelig.**  
+الان کمی نق‌نقو است.
 
 ---
 
-## 5. Essen — غذا
+## C) Sie wollte …
 
-**Beim Essen ist sie manchmal etwas wählerisch.**  
-در غذا خوردن گاهی کمی سخت‌پسند است.
+برای تعریف‌کردن اتفاقات روز:
 
-**Obst isst sie sehr gern.**  
-میوه را خیلی دوست دارد.
+**Sie wollte nichts essen.**  
+نمی‌خواست چیزی بخورد.
 
-**Gemüse mag sie im Moment nicht besonders.**  
-فعلاً سبزیجات را خیلی دوست ندارد.
+**Sie wollte nicht schlafen.**  
+نمی‌خواست بخوابد.
 
-**Sie möchte inzwischen oft alleine essen.**  
-این اواخر اغلب می‌خواهد خودش غذا بخورد.
+**Sie wollte nur bei mir bleiben.**  
+فقط می‌خواست پیش من بماند.
 
-**Heute hatte sie nicht besonders viel Appetit.**  
-امروز خیلی اشتها نداشت.
-
-### خیلی محاوره‌ای
-**Obst isst sie total gern.**  
-میوه رو خیلی دوست داره.
+**Sie wollte die ganze Zeit auf den Arm.**  
+تمام مدت بغل می‌خواست.
 
 ---
 
-## 6. Spielen und Stimmung — بازی و خلق‌وخو
+## D) Vielleicht ist sie …
 
-**Sie spielt am liebsten draußen.**  
-بیشتر از همه دوست دارد بیرون بازی کند.
+برای حدس‌زدن علت رفتار کودک:
 
-**Im Moment interessiert sie sich sehr für Tiere.**  
-این روزها خیلی به حیوانات علاقه دارد.
+**Vielleicht ist sie müde.**  
+شاید خسته است.
 
-**Heute ist sie etwas müde und quengelig.**  
-امروز کمی خسته و نق‌نقو است.
+**Vielleicht hat sie Hunger.**  
+شاید گرسنه است.
 
-**Normalerweise ist sie morgens sehr gut gelaunt.**  
-معمولاً صبح‌ها خیلی خوش‌اخلاق است.
-
-**Sie ist ziemlich lebhaft und immer in Bewegung.**  
-خیلی پرجنب‌وجوش است و همیشه در حال حرکت است.
+**Vielleicht bekommt sie Zähne.**  
+شاید دارد دندان درمی‌آورد.
 
 ---
 
-## 7. Mini-Dialog — با یک همکار
+# 3. حال و رفتار کودک — Stimmung & Verhalten
 
-**A:** Wie geht's deiner Kleinen?  
-دختر کوچولوت چطوره؟
+**Wie war sie heute drauf?**  
+امروز حال‌وهوایش چطور بود؟
 
-**B:** Gut, danke. Sie ist jetzt fast zwei und wird immer selbstständiger.  
-خوبه، ممنون. الان تقریباً دو سالشه و روزبه‌روز مستقل‌تر می‌شه.
+**War sie gut drauf?**  
+سرحال و خوش‌اخلاق بود؟
 
-**A:** Geht sie schon in die Kita?  
-مهدکودک می‌ره؟
+**Wie geht es ihr?**  
+حالش چطور است؟
 
-**B:** Noch nicht ganz. Wir fangen bald mit der Eingewöhnung an.  
-هنوز نه کاملاً. به‌زودی دورهٔ سازگاری رو شروع می‌کنیم.
+**War alles in Ordnung?**  
+همه‌چیز خوب بود؟
 
-**A:** Und schläft sie nachts gut?  
-شب‌ها خوب می‌خوابه؟
+**Sie war eigentlich ganz gut drauf.**  
+در کل حالش خوب بود.
 
-**B:** Meistens schon, aber manchmal wacht sie noch einmal auf.  
-اغلب آره، ولی بعضی وقت‌ها یک بار دیگه بیدار می‌شه.
+**Sie war heute etwas unruhig.**  
+امروز کمی بی‌قرار بود.
 
----
+**Sie ist gerade etwas quengelig.**  
+الان کمی نق‌نقو است.
 
-## 8. Mini-Dialog — در Kita
+**Sie war ziemlich anhänglich.**  
+خیلی به من چسبیده بود و می‌خواست کنارم باشد.
 
-**Erzieherin:** Wie war die Nacht?  
-دیشب چطور بود؟
+**Sie hat viel geweint.**  
+خیلی گریه کرد.
 
-**Elternteil:** Eigentlich ganz gut. Sie hat bis sechs Uhr geschlafen.  
-در واقع خیلی خوب بود. تا ساعت شش خوابید.
+**Sie hat sich schnell wieder beruhigt.**  
+زود دوباره آرام شد.
 
-**Erzieherin:** Hat sie heute Morgen schon etwas gegessen?  
-امروز صبح چیزی خورده؟
+**Sie wollte die ganze Zeit auf den Arm.**  
+تمام مدت می‌خواست بغلش کنم.
 
-**Elternteil:** Ja, ein bisschen Brot und Banane. Sie war heute aber nicht besonders hungrig.  
-بله، کمی نان و موز. ولی امروز خیلی گرسنه نبود.
+### Sprachgefühl
 
-**Erzieherin:** Kein Problem. Wir schauen einfach, wie es später läuft.  
-مشکلی نیست. بعداً می‌بینیم چطور پیش می‌رود.
+در مکالمهٔ خانوادگی:
 
----
+**gut drauf sein**
 
-## 9. Typische Fragen — سؤال‌هایی که واقعاً می‌شنوی
+بسیار طبیعی و پرکاربرد است:
 
-- **Wie alt ist sie jetzt?** — الان چند سالشه؟
-- **Geht sie schon in die Kita?** — مهدکودک می‌ره؟
-- **Wie klappt die Eingewöhnung?** — سازگاری با Kita چطور پیش می‌ره؟
-- **Schläft sie schon durch?** — دیگه تا صبح یکسره می‌خوابه؟
-- **Macht sie noch Mittagsschlaf?** — هنوز ظهر می‌خوابه؟
-- **Isst sie gut?** — خوب غذا می‌خوره؟
-- **Was spielt sie im Moment gern?** — این روزها دوست داره با چی بازی کنه؟
-- **Ist sie eher ruhig oder lebhaft?** — بیشتر آرومه یا پرجنب‌وجوش؟
+**Sie ist heute gut drauf.**
+
+و:
+
+**Sie ist heute nicht so gut drauf.**
 
 ---
 
-## 10. Natürlich statt Lehrbuch — طبیعی‌تر بگو
+# 4. Essen & Trinken — غذا و نوشیدن
 
-**کتابی:** Sie ist zwei Jahre alt.  
-**گفتاری:** Sie ist jetzt fast zwei.
+**Hat sie schon etwas gegessen?**  
+تا حالا چیزی خورده؟
 
-**کتابی:** Sie schläft in der Nacht gut.  
-**طبیعی:** Sie schläft nachts gut.
+**Hat sie gut gegessen?**  
+خوب غذا خورد؟
 
-**استاندارد:** Sie isst gerne Obst.  
-**محاوره‌ای:** Obst isst sie total gern.
+**Sie hat heute kaum etwas gegessen.**  
+امروز تقریباً چیزی نخورد.
 
-**استاندارد:** Sie geht in den Kindergarten.  
-برای کودک کوچک در آلمان اغلب طبیعی‌تر: **Sie geht in die Kita.**
+**Sie hat noch nichts gegessen.**  
+هنوز چیزی نخورده.
 
----
+**Sie wollte nichts essen.**  
+نمی‌خواست چیزی بخورد.
 
-## 11. Active Recall — بدون نگاه کردن جواب بده
+**Sie hat nur ein paar Bissen gegessen.**  
+فقط چند لقمه خورد.
 
-به آلمانی و هرکدام در ۲ تا ۳ جمله جواب بده:
+**Sie hatte keinen Appetit.**  
+اشتها نداشت.
 
-1. Wie alt ist dein Kind?
-2. Wie schläft es nachts?
-3. Macht es noch Mittagsschlaf?
-4. Was isst es besonders gern?
-5. Was macht es gern draußen?
-6. Wie ist seine Stimmung morgens?
-7. Geht es schon in die Kita oder beginnt es bald?
-8. Wofür interessiert es sich im Moment?
+**Sie hat richtig Hunger.**  
+واقعاً گرسنه است.
 
----
+**Sie hat genug getrunken.**  
+به‌اندازهٔ کافی نوشید.
 
-## 12. Schnellübung — جاهای خالی
+**Sie will nichts trinken.**  
+نمی‌خواهد چیزی بنوشد.
 
-1. Meine Tochter ist jetzt fast ___.
-2. Sie geht bald in die ___.
-3. Nachts schläft sie meistens ___.
-4. Mittags macht sie noch einen ___.
-5. Obst isst sie sehr ___.
-6. Heute ist sie etwas müde und ___.
-7. Sie wird von Tag zu Tag ___.
-8. Wir fangen bald mit der ___ an.
+### دو ساختار طبیعی
 
-### Lösungen
-1. zwei
-2. Kita
-3. gut
-4. Mittagsschlaf
-5. gern
-6. quengelig
-7. selbstständiger
-8. Eingewöhnung
+**Sie ist hungrig.**  
+گرسنه است.
+
+اما در مکالمهٔ روزمره بسیار رایج است:
+
+**Sie hat Hunger.**
+
+همین‌طور:
+
+**Sie hat Durst.**  
+تشنه است.
 
 ---
 
-## 13. ترجمهٔ فعال فارسی → آلمانی
+# 5. Schlaf — خواب
 
-اول خودت ترجمه کن، بعد پاسخ‌ها را ببین.
+**Hat sie gut geschlafen?**  
+خوب خوابید؟
 
-1. دخترم الان تقریباً دو سالشه.
-2. بعضی وقت‌ها شب بیدار می‌شود.
-3. این روزها خیلی به حیوانات علاقه دارد.
-4. به‌زودی دورهٔ سازگاری با مهدکودک را شروع می‌کنیم.
-5. امروز خیلی اشتها نداشت.
+**Hat sie Mittagsschlaf gemacht?**  
+خواب ظهر داشت؟
 
-### پاسخ‌ها
-1. **Meine Tochter ist jetzt fast zwei.**
-2. **Manchmal wacht sie nachts auf.**
-3. **Im Moment interessiert sie sich sehr für Tiere.**
-4. **Wir fangen bald mit der Eingewöhnung an.**
-5. **Heute hatte sie nicht besonders viel Appetit.**
+**Sie schläft noch.**  
+هنوز خواب است.
+
+**Sie ist gerade eingeschlafen.**  
+تازه خوابش برده.
+
+**Sie ist gerade erst aufgewacht.**  
+همین الان بیدار شده.
+
+**Sie ist sofort eingeschlafen.**  
+فوراً خوابش برد.
+
+**Sie hat ungefähr eine Stunde geschlafen.**  
+حدود یک ساعت خوابید.
+
+**Sie ist heute Nacht zweimal aufgewacht.**  
+دیشب دو بار بیدار شد.
+
+**Sie ist müde, will aber nicht schlafen.**  
+خسته است، ولی نمی‌خواهد بخوابد.
+
+**Ich bringe sie ins Bett.**  
+من می‌برمش بخوابانم.
 
 ---
 
-## 14. Role-play — تمرین مکالمه
+# 6. schon / noch / noch nicht
 
-### موقعیت A: همکار در محل کار
-همکارت می‌پرسد دخترت چند سال دارد، آیا Kita می‌رود و شب‌ها چطور می‌خوابد. حداقل ۵ جمله جواب بده.
+این سه مورد در مکالمه دربارهٔ کودک فوق‌العاده مهم‌اند.
 
-### موقعیت B: صبح در Kita
-به Erzieherin بگو:
-- دیشب خوب خوابیده؛
-- صبح کمی نان و موز خورده؛
-- امروز کمی خسته است؛
-- اگر ظهر خواب‌آلود شد می‌تواند بخوابد.
+### schon
+
+**Hat sie schon gegessen?**  
+غذا خورده؟
+
+**Schläft sie schon?**  
+خوابیده؟
+
+### noch
+
+**Sie schläft noch.**  
+هنوز خواب است.
+
+**Sie isst noch.**  
+هنوز دارد غذا می‌خورد.
+
+### noch nicht
+
+**Sie schläft noch nicht.**  
+هنوز نخوابیده.
+
+**Sie hat noch nicht gegessen.**  
+هنوز غذا نخورده.
+
+### Pattern بسیار مهم
+
+**Hat sie schon gegessen?**  
+— **Nein, noch nicht.**
+
+این را به‌صورت یک واحد کامل یاد بگیرید:
+
+**Nein, noch nicht.**
 
 ---
 
-## 15. پنج جملهٔ فعال امروز
+# 7. gerade
 
-این پنج جمله را چند بار با صدای بلند بگو:
+`gerade` یکی از کاربردی‌ترین کلمات برای زندگی روزمره است.
 
-1. **Meine Tochter ist jetzt fast zwei.**
-2. **Sie wird von Tag zu Tag selbstständiger.**
-3. **Wir fangen bald mit der Eingewöhnung an.**
-4. **Manchmal wacht sie nachts noch auf.**
-5. **Im Moment spielt sie am liebsten draußen.**
+**Sie ist gerade eingeschlafen.**  
+تازه خوابش برده.
+
+**Sie ist gerade aufgewacht.**  
+تازه بیدار شده.
+
+**Sie isst gerade.**  
+الان دارد غذا می‌خورد.
+
+**Sie hat gerade gegessen.**  
+تازه غذا خورده.
+
+تفاوت را حس کنید:
+
+**Sie isst gerade.**  
+الان دارد می‌خورد.
+
+**Sie hat gerade gegessen.**  
+تازه غذا خورده.
+
+---
+
+# 8. افعال و Kollokationen مهم
+
+| عبارت | معنی |
+|---|---|
+| **gut drauf sein** | سرحال و خوش‌اخلاق بودن |
+| **quengelig sein** | نق‌نقو / بی‌قرار بودن |
+| **anhänglich sein** | زیاد به والد چسبیدن |
+| **Mittagsschlaf machen** | خواب نیمروزی داشتن |
+| **einschlafen** | به خواب رفتن |
+| **aufwachen** | بیدار شدن |
+| **sich beruhigen** | آرام شدن |
+| **jemanden beruhigen** | کسی را آرام کردن |
+| **auf den Arm wollen** | بغل خواستن |
+| **Hunger haben** | گرسنه بودن |
+| **Durst haben** | تشنه بودن |
+| **Fieber haben** | تب داشتن |
+| **Zähne bekommen** | دندان درآوردن |
+| **jemanden ins Bett bringen** | کسی را خواباندن |
+
+---
+
+# 9. eigentlich
+
+یکی از کلمات بسیار رایج در مکالمه:
+
+**Wie war sie heute drauf?**
+
+**Eigentlich ganz gut.**  
+در کل خوب بود.
+
+یا:
+
+**Hat sie gut geschlafen?**
+
+**Ja, eigentlich schon.**  
+آره، در کل خوب خوابید.
+
+در این کاربرد لازم نیست `eigentlich` را کلمه‌به‌کلمه ترجمه کنید؛ کل عبارت را یاد بگیرید.
+
+---
+
+# 10. Mini-Dialog 1 — صبح
+
+**A:** Ist sie schon wach?  
+بیدار شده؟
+
+**B:** Ja, sie ist gerade aufgewacht.  
+آره، تازه بیدار شده.
+
+**A:** Hat sie gut geschlafen?  
+خوب خوابید؟
+
+**B:** Ja, eigentlich schon.  
+آره، در کل خوب بود.
+
+**A:** Hat sie schon gegessen?  
+چیزی خورده؟
+
+**B:** Nein, noch nicht.  
+نه، هنوز نه.
+
+**A:** Dann mache ich ihr etwas zu essen.  
+پس من یه چیزی برای خوردنش درست می‌کنم.
+
+---
+
+# 11. Mini-Dialog 2 — چرا گریه می‌کند؟
+
+**A:** Warum weint sie?  
+چرا گریه می‌کنه؟
+
+**B:** Keine Ahnung. Vielleicht ist sie müde.  
+نمی‌دونم. شاید خسته است.
+
+**A:** Hat sie Hunger?  
+گرسنه نیست؟
+
+**B:** Ich glaube nicht. Sie hat gerade gegessen.  
+فکر نکنم. تازه غذا خورده.
+
+**A:** Vielleicht will sie schlafen.  
+شاید می‌خواهد بخوابد.
+
+**B:** Kann sein.  
+ممکنه.
+
+### دو عبارت فعال
+
+**Keine Ahnung.**  
+نمی‌دونم.
+
+**Kann sein.**  
+ممکنه.
+
+هر دو در مکالمهٔ واقعی بسیار پرکاربردند.
+
+---
+
+# 12. Mini-Dialog 3 — اتفاقات امروز
+
+**A:** Wie war sie heute drauf?
+
+**B:** Eigentlich ganz gut. Am Nachmittag war sie ein bisschen müde.
+
+**A:** Hat sie Mittagsschlaf gemacht?
+
+**B:** Ja, aber nur ungefähr vierzig Minuten.
+
+**A:** Und hat sie gut gegessen?
+
+**B:** Nicht wirklich. Sie hat nur ein paar Bissen gegessen.
+
+**A:** Vielleicht bekommt sie wieder Zähne.
+
+**B:** Ja, das kann sein. Sie wollte auch die ganze Zeit auf den Arm.
+
+---
+
+# 13. مکالمهٔ طبیعی بین زن‌وشوهر
+
+**A:** Na, wie lief es heute mit ihr?  
+خب، امروز باهاش چطور گذشت؟
+
+**B:** Eigentlich ganz okay, aber sie war ziemlich anhänglich.  
+در کل بد نبود، ولی خیلی به من چسبیده بود.
+
+**A:** Hat sie denn geschlafen?  
+بالاخره خوابید؟
+
+**B:** Ja, aber erst ziemlich spät. Sie war müde, wollte aber einfach nicht schlafen.  
+آره، ولی خیلی دیر. خسته بود، ولی اصلاً نمی‌خواست بخوابد.
+
+**A:** Hat sie wenigstens etwas gegessen?  
+حداقل چیزی خورد؟
+
+**B:** Ein bisschen. Sie hat nur ein paar Bissen gegessen.  
+یک‌کم. فقط چند لقمه خورد.
+
+**A:** Und warum hat sie so viel geweint?  
+پس چرا این‌قدر گریه کرد؟
+
+**B:** Keine Ahnung. Vielleicht bekommt sie wieder Zähne.  
+نمی‌دونم. شاید دوباره داره دندان درمیاره.
+
+**A:** Kann sein. Ist sie jetzt müde?  
+ممکنه. الان خسته است؟
+
+**B:** Ja, ziemlich. Sie ist auch schon wieder quengelig.  
+آره، نسبتاً زیاد. دوباره هم نق‌نقو شده.
+
+**A:** Soll ich sie ins Bett bringen?  
+من ببرمش بخوابونم؟
+
+**B:** Ja, bitte. Ich räume in der Zeit die Küche auf.  
+آره لطفاً. من هم تو این فاصله آشپزخانه را جمع می‌کنم.
+
+---
+
+# 14. چند عبارت بسیار طبیعی از مکالمه
+
+### Wie lief es heute mit ihr?
+
+امروز باهاش چطور گذشت؟
+
+### Hat sie denn geschlafen?
+
+پس/بالاخره خوابید؟
+
+`denn` در اینجا سؤال را طبیعی‌تر و محاوره‌ای‌تر می‌کند.
+
+### wenigstens
+
+**Hat sie wenigstens etwas gegessen?**
+
+حداقل چیزی خورد؟
+
+### ziemlich
+
+**Sie ist ziemlich müde.**
+
+نسبتاً / حسابی خسته است.
+
+### in der Zeit
+
+**Ich räume in der Zeit die Küche auf.**
+
+من در این فاصله آشپزخانه را جمع می‌کنم.
+
+---
+
+# 15. Active Recall
+
+بدون نگاه‌کردن فوراً به آلمانی بگویید:
+
+1. امروز حالش چطور بود؟
+2. غذا خورده؟
+3. نه، هنوز نه.
+4. فقط چند لقمه خورد.
+5. تازه بیدار شده.
+6. هنوز خواب است.
+7. چرا گریه می‌کند؟
+8. شاید خسته است.
+9. تمام مدت بغل می‌خواست.
+10. خیلی به من چسبیده بود.
+11. زود دوباره آرام شد.
+12. خسته بود، ولی نمی‌خواست بخوابد.
+13. من ببرمش بخوابونم؟
+14. نمی‌دونم.
+15. ممکنه.
+
+## Antworten
+
+1. **Wie war sie heute drauf?**
+2. **Hat sie schon gegessen?**
+3. **Nein, noch nicht.**
+4. **Sie hat nur ein paar Bissen gegessen.**
+5. **Sie ist gerade aufgewacht.**
+6. **Sie schläft noch.**
+7. **Warum weint sie?**
+8. **Vielleicht ist sie müde.**
+9. **Sie wollte die ganze Zeit auf den Arm.**
+10. **Sie war ziemlich anhänglich.**
+11. **Sie hat sich schnell wieder beruhigt.**
+12. **Sie war müde, wollte aber nicht schlafen.**
+13. **Soll ich sie ins Bett bringen?**
+14. **Keine Ahnung.**
+15. **Kann sein.**
+
+---
+
+# 16. Transformation Drill
+
+هدف این بخش **سرعت تولید جمله** است، نه تحلیل گرامر.
+
+### schlafen
+
+**Sie schläft.**
+
+→ **Sie schläft noch.**  
+→ **Sie schläft schon.**  
+→ **Sie schläft noch nicht.**
+
+### essen
+
+**Sie hat gegessen.**
+
+→ **Sie hat schon gegessen.**  
+→ **Sie hat noch nicht gegessen.**  
+→ **Sie hat gerade gegessen.**
+
+### aufwachen
+
+**Sie ist aufgewacht.**
+
+→ **Sie ist gerade aufgewacht.**  
+→ **Sie ist gerade erst aufgewacht.**
+
+### wollen
+
+**Sie wollte schlafen.**
+
+→ **Sie wollte nicht schlafen.**  
+→ **Sie wollte nur bei mir schlafen.**
+
+---
+
+# 17. Role-play هدایت‌شده
+
+## Person A
+
+تازه به خانه رسیده‌اید. بپرسید:
+
+- امروز حال کودک چطور بود؟
+- غذا خورد؟
+- خواب ظهر داشت؟
+- گریه کرد؟
+- چرا بی‌قرار بود؟
+- الان خسته است؟
+
+## Person B
+
+با این اطلاعات پاسخ دهید:
+
+- بیشتر روز سرحال بود.
+- فقط چند لقمه خورد.
+- حدود ۴۵ دقیقه خوابید.
+- بعد از بیدارشدن کمی گریه کرد.
+- تمام مدت بغل می‌خواست.
+- خیلی زود آرام شد.
+- الان کمی خسته است.
+
+شروع:
+
+**A:** Na, wie war sie heute drauf?
+
+**B:** Eigentlich war sie die meiste Zeit gut drauf.
+
+---
+
+# 18. Freies Role-play — بدون متن
+
+این بار متن درس را نگاه نکنید.
+
+### Situation
+
+کودک گریه می‌کند.
+
+یکی از شما فکر می‌کند گرسنه است.  
+نفر دیگر فکر می‌کند خسته است.
+
+حداقل **دو دقیقه فقط آلمانی** صحبت کنید.
+
+از این عبارت‌ها در صورت نیاز کمک بگیرید:
+
+**Warum weint sie?**
+
+**Vielleicht …**
+
+**Ich glaube …**
+
+**Ich glaube nicht.**
+
+**Sie hat gerade …**
+
+**Kann sein.**
+
+**Hat sie schon …?**
+
+**Was machen wir jetzt?**
+
+---
+
+# 19. Aufgabe für heute
+
+امروز هنگام صحبت واقعی دربارهٔ کودک حداقل **پنج بار** به‌جای فارسی از آلمانی استفاده کنید.
+
+اولویت با این جمله‌هاست:
+
+**Wie war sie heute drauf?**
+
+**Hat sie schon gegessen?**
+
+**Nein, noch nicht.**
+
+**Sie ist gerade aufgewacht.**
+
+**Vielleicht ist sie müde.**
+
+**Warum weint sie?**
+
+**Sie wollte die ganze Zeit auf den Arm.**
+
+**Soll ich sie ins Bett bringen?**
+
+هدف حفظ کل درس نیست.
+
+هدف این است که چند ساختار اصلی آن‌قدر تکرار شوند که **بدون ترجمه از فارسی** تولید شوند.
+
+---
+
+# 20. Kernmuster — خروجی فعال درس
+
+بعد از `DE-ALLTAG-001` این ساختارها باید با فکر بسیار کم تولید شوند:
+
+**Wie war sie heute drauf?**  
+امروز حالش چطور بود؟
+
+**Hat sie schon …?**  
+آیا تا الان …؟
+
+**Nein, noch nicht.**  
+نه، هنوز نه.
+
+**Sie hat noch nicht …**  
+هنوز … نکرده.
+
+**Sie ist gerade …**  
+تازه / همین الان …
+
+**Sie wollte …**  
+می‌خواست …
+
+**Vielleicht ist sie …**  
+شاید … است.
+
+**Vielleicht hat sie …**  
+شاید … دارد.
+
+**Warum …?**  
+چرا …؟
+
+**Soll ich …?**  
+من … انجام بدهم؟
+
+**Keine Ahnung.**  
+نمی‌دونم.
+
+**Kann sein.**  
+ممکنه.
+
+---
+
+# 21. Spaced-Repetition-Marker
+
+این موارد نباید با پایان این درس رها شوند:
+
+**schon / noch / noch nicht**  
+**gerade**  
+**eigentlich**  
+**gut drauf sein**  
+**Vielleicht …**  
+**Soll ich …?**  
+**Keine Ahnung. / Kann sein.**
+
+در درس‌های بعدی این ساختارها بدون توضیح طولانی دوباره در موقعیت‌های جدید ظاهر می‌شوند؛ مثلاً:
+
+- آماده‌کردن کودک و بیرون‌رفتن
+- غذا خوردن
+- خرید
+- Kita
+- خواب
+- پزشک
+- برنامه‌ریزی خانوادگی
+
+هدف این است که ساختارهای قبلی در کنار زبان جدید مرتباً **بازیابی و فعال** شوند.
 
 ---
 
 ## Abschluss-Checkpoint
 
-بعد از این درس باید بتوانی بدون آماده‌سازی حدود **۶۰ تا ۹۰ ثانیه** دربارهٔ کودک و زندگی روزمره‌اش به آلمانی صحبت کنی.
+بعد از این درس باید بتوانید بدون آماده‌سازی قبلی حدود **۲ تا ۳ دقیقه** دربارهٔ وضعیت کودک در طول روز صحبت کنید و دربارهٔ خواب، غذا، گریه و حال او سؤال بپرسید و پاسخ دهید.
+
+### عبارت کلیدی DE-ALLTAG-001
+
+**Wie war sie heute drauf? – Eigentlich ganz gut, aber sie war ein bisschen müde.**
