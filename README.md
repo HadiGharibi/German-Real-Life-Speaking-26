@@ -8,6 +8,7 @@ A persistent, numbered German real-life speaking curriculum.
 ## Lessons
 1. [DE-ALLTAG-001 — Über das Kind im Alltag sprechen](lessons/DE-ALLTAG-001.md)
 2. [DE-ALLTAG-002 — Das Kind fertig machen und das Haus verlassen](lessons/DE-ALLTAG-002.md)
+3. [DE-ALLTAG-003 — Im Supermarkt: Verkäufer fragen und an der Kasse reagieren](lessons/DE-ALLTAG-003.md)
 
 ## Structure
 Each lesson has a stable ID and is stored as a separate Markdown file in `lessons/` so the curriculum can be continued, reviewed, and exported later.
