@@ -2,6 +2,9 @@
 
 A persistent, numbered German real-life speaking curriculum.
 
+## ChatGPT Project Entrypoint
+- [PROJECT-INSTRUCTIONS.md](PROJECT-INSTRUCTIONS.md) — read this first in every new project chat before handling lesson requests.
+
 ## Course
 - [Course Index](INDEX.md)
 
