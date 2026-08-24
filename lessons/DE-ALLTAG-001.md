@@ -150,6 +150,3 @@ Diese fünf Sätze laut üben:
 
 ## Abschluss-Checkpoint
 Nach dieser Lektion solltest du ohne Vorbereitung etwa 60–90 Sekunden über dein Kind und seinen Alltag sprechen können.
-
-## Nächste Lektion
-**DE-ALLTAG-002 — In der Kita: Bringen, Abholen und mit Erziehern sprechen**
