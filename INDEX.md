@@ -5,9 +5,7 @@
 ## Lessons
 
 1. [DE-ALLTAG-001 — Über das Kind im Alltag sprechen](lessons/DE-ALLTAG-001.md)
-
-## Next lesson
-`DE-ALLTAG-002` — عنوان و موقعیت هنگام ساخت درس، طبق مسیر اصلی دوره انتخاب می‌شود؛ عنوان از قبل حدس زده یا صرفاً از موضوع درس قبلی ادامه داده نمی‌شود.
+2. [DE-ALLTAG-002 — Das Kind fertig machen und das Haus verlassen](lessons/DE-ALLTAG-002.md)
 
 ## Numbering rule
 - `DE-ALLTAG-001`, `DE-ALLTAG-002`, ... برای مکالمات روزمره
