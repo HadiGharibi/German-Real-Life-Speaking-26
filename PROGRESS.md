@@ -3,7 +3,7 @@
 ## Machine-Authoritative State
 
 - current_lesson: `DE-ALLTAG-003`
-- status: `active`
+- status: `completed`
 - next_lesson: `DE-ALLTAG-004`
 
 ## HARD RULE — «درس امروز»
@@ -21,6 +21,16 @@
 - `next_lesson` باید ساخته شود.
 - هیچ منطق دیگری حق ندارد شمارهٔ درس را تغییر دهد.
 - تاریخ، تعداد دفعات درخواست، سابقهٔ چت، حافظه یا عنوان چت نباید استفاده شود.
+
+## Completion Rule
+
+پس از اینکه یک درس active به کاربر ارائه و تکمیل شد:
+
+1. همان `current_lesson` باید در `PROGRESS.md` با `status: completed` ثبت شود.
+2. `next_lesson` باید روی شمارهٔ بعدی باقی بماند یا تعیین شود.
+3. در درخواست بعدی `درس امروز`، چون status = completed است، فقط `next_lesson` ساخته و منتشر می‌شود.
+4. پس از انتشار و verify شدن درس جدید، `current_lesson` به همان درس جدید تغییر می‌کند، `status: active` می‌شود و `next_lesson` یک شماره جلو می‌رود.
+5. یک درس completed نباید در درخواست بعدی دوباره به‌عنوان درس امروز نمایش داده شود.
 
 ## Publication Rule
 
