@@ -2,9 +2,9 @@
 
 ## Machine-Authoritative State
 
-- current_lesson: `DE-ALLTAG-003`
-- status: `completed`
-- next_lesson: `DE-ALLTAG-004`
+- current_lesson: `DE-ALLTAG-004`
+- status: `active`
+- next_lesson: `DE-ALLTAG-005`
 
 ## HARD RULE — «درس امروز»
 
