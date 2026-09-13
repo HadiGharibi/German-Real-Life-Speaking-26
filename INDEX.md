@@ -8,6 +8,7 @@
 2. [DE-ALLTAG-002 — Das Kind fertig machen und das Haus verlassen](lessons/DE-ALLTAG-002.md)
 3. [DE-ALLTAG-003 — Im Supermarkt: Verkäufer fragen und an der Kasse reagieren](lessons/DE-ALLTAG-003.md)
 4. [DE-ALLTAG-004 — Wohnungsbesichtigung: mit Makler oder Vermieter sprechen](lessons/DE-ALLTAG-004.md)
+5. [DE-ALLTAG-005 — In der Arztpraxis: Anmeldung, Termin und Beschwerden erklären](lessons/DE-ALLTAG-005.md)
 
 ## Numbering rule
 - `DE-ALLTAG-001`, `DE-ALLTAG-002`, ... برای مکالمات روزمره
